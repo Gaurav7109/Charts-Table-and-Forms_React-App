@@ -1,0 +1,10 @@
+input {
+    width: 100vw;
+    padding: 2px 2px;
+    margin: 8px 0;
+    box-sizing: border-box;
+  }
+
+  button{
+    margin: 20px;
+  }
